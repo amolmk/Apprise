@@ -5,13 +5,12 @@ This repo includes some of the custom library which brings some level of abstrac
 Below are the descriptions of various library included
 
 * **1. Memcached** 
-* **2. ConfigReader**
-* **3. Personalization Rest API**
-* **4. Storm Topology**
+* **2. Config Reader**
+* **3. Mongo DB Engine**
 
 ## Description
 
-### 1. Dashboard
+### 1. Memcached
 This folder inlcudes the html/css/js related to dashboard made for personalization demo.
 
 ### 2. Global Key Generators
